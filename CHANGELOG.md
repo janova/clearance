@@ -1,3 +1,8 @@
+0.9.1 (Janova fork)
+------------------
+
+* Refactored the Clearance::User::Validations module to use the regex that comes from http://www.regular-expressions.info/email.html (with the addition of ^ and $ as well as the case-insensitive flag at the end).
+
 0.8.9 (unreleased)
 ------------------
 

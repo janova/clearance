@@ -4,10 +4,10 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Dan Croak", "Mike Burns", "Jason Morrison", "Joe Ferris", "Eugene Bolshakov", "Nick Quaranto", "Josh Nichols", "Mike Breen", "Marcel G\303\266rner", "Bence Nagy", "Ben Mabey", "Eloy Duran", "Tim Pope", "Mihai Anca", "Mark Cornick", "Shay Arnett", "Jon Yurek", "Chad Pytel"]
-  s.date = %q{2010-06-29}
+  s.date = %q{2010-12-20}
   s.summary = %q{Rails authentication with email & password.}
   s.description = %q{Rails authentication with email & password.}
-  s.email = %q{support@thoughtbot.com}
+  s.email = %q{support@janova.us}
   s.extra_rdoc_files = [
     "LICENSE",
      "README.md"
@@ -63,7 +63,7 @@ Gem::Specification.new do |s|
     "init.rb",
   ]
 
-  s.homepage = %q{http://github.com/thoughtbot/clearance}
+  s.homepage = %q{http://github.com/janova/clearance}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
