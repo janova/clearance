@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name = %q{clearance}
+  s.name = %q{janova-clearance}
   s.version = IO.read(File.join(File.dirname(__FILE__), 'VERSION'))
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
